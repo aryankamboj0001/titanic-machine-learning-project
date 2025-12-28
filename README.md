@@ -20,4 +20,5 @@ Supervised Learning – Binary Classification
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
